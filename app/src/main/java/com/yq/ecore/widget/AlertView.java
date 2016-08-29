@@ -13,6 +13,7 @@ public class AlertView {
 
     }
 
+    //初始化
     protected void initView(){
 
     }
