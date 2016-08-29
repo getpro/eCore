@@ -1,2 +1,2 @@
 # eCore
-Simple android development framework
+test
