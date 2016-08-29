@@ -12,4 +12,8 @@ public class AlertView {
     public AlertView(String title,String content){
 
     }
+
+    protected void initView(){
+
+    }
 }
